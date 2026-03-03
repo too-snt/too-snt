@@ -21,13 +21,13 @@ I believe robust systems emerge from clarity, structure, and coherence.
 
 ## ⚙️ Tech Stack
 
-##Languages
+## Languages
 ▸ Java
 ▸ JavaScript
 ▸ Python
 ▸ SQL
 
-##Core Interests
+## Core Interests
 ▸ Systems Design
 ▸ Backend Architecture
 ▸ Database Modeling
@@ -42,13 +42,13 @@ Scalability through coherence.
 Design as an ecosystem, not a mechanism.
 Inspired by systemic thought, I approach programming as the study of relationships — between functions, modules, users, and information flows.
 
-##Current Focus
+## Current Focus
 Designing structured backend systems
 Building database-driven applications
 Exploring AI-assisted architectures
 Deepening understanding of computational logic
 
-##🌐 Vision
+## 🌐 Vision
 Technology should not merely function —
 it should integrate.
 My goal is to design systems that are:
