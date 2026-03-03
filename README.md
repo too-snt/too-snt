@@ -26,6 +26,7 @@ I believe robust systems emerge from clarity, structure, and coherence.
 ▸ JavaScript
 ▸ Python
 ▸ SQL
+▸ C++
 
 ## Core Interests
 ▸ Systems Design
